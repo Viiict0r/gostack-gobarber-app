@@ -26,6 +26,7 @@
       "react-hooks"
     ],
     "rules": {
+      "camelcase": "off",
       "react/jsx-props-no-spreading": "off",
       "react/prop-types": "off",
       "import/prefer-default-export": "off",
